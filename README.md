@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working as a network automation engineer at Aurora Innovation Inc. Master in ECE graduated from SUNY Binghamton University.
+I'm currently working as a Senior network engineer (NRE/Observability) at CrowdStrike. Master in ECE graduated from SUNY Binghamton University.
 
 Enthusiastic on various technologies that has the potiential to change people's lives, such as cloud, 3D printing, cryptocurrency, AL/ML, new energy. Keep an eye on how technological innovations can improve efficiency while reshaping the natural environment.
 
