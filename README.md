@@ -1,26 +1,4 @@
 ### Hi there! I'm Roger X Wu 👋
 
-<!--
-**rogerxwu/rogerxwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Happy coding!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm currently working as a Senior network engineer (NRE/Observability) at CrowdStrike. Master in ECE graduated from SUNY Binghamton University.
-
-Enthusiastic on various technologies that has the potiential to change people's lives, such as cloud, 3D printing, cryptocurrency, AL/ML, new energy. Keep an eye on how technological innovations can improve efficiency while reshaping the natural environment.
-
-Passionate about entrepreneurship, I believe that engineering skill is the hands of man and business vision is the eyes of man. When the chemistry of skill and vision comes into play, you can make something that can change the world.
-
-A lifelong learner, 10 years tennis player, certified scuba diver, camper, loves the outdoors, loves nature.
-
-Fate and destiny coexist. Do your best to move forward, and the final glory goes to God.
